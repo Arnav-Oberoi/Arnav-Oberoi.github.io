@@ -114,8 +114,8 @@ analytics:
 # Site Author
 author:
   name             : "Arnav Oberoi"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Engineering student passionate about Robotics, Space systems, AI/ML and building innovative technical solutions."
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "Engineering student passionate about Robotics, AI/ML and building innovative technical solutions."
   location         : "Bangalore, India"
   email            : "oberoiarnav735@gmail.com"
   links:
@@ -133,10 +133,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      # url: "https://github.com/Arnav-Oberoi"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      icon: "fab fa-fw fa-linkedin"
+      # url: "https://linkedin.com/"
 
 # Site Footer
 footer:
