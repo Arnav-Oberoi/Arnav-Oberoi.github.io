@@ -115,15 +115,13 @@ analytics:
 author:
   name             : "Arnav Oberoi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Mechanical Engineer\  
-  Robotics & Automation\  
-  Additive Manufacturing\"
+  bio              : "**Engineering student passionate about robotics, space systems, AI/ML and building innovative technical solutions.**"
   location         : "Bangalore, India"
   email            : "oberoiarnav735@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:oberoiarnav735@gmail.com"
+      # url: "mailto:oberoiarnav735@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
